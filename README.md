@@ -1,1 +1,1 @@
-![Screenshot](chihuahua.png)
+![Screenshot](app/src/main/res/drawable/chihuahua.png)
